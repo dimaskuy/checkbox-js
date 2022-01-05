@@ -7,6 +7,7 @@ So you can save your checklist through the browser. Even if you refresh the page
 You can select all the checklist items you want by:
 
 Checking one of the checklist items, then holding down the CTRL key while checking the lower checklist items.
+
 <i>[This may not work when you use a virtual keyboard (eg in mobile, etc.)]</i>
 
 <hr><br>
