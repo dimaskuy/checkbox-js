@@ -9,9 +9,9 @@ You can select all the checklist items you want by:
 
 Checking one of the checklist items, then holding down the CTRL key while checking the lower checklist items.
 
-<br>
+</hr>
 I'm pretty sure, there are flaws in this simple program. Be it in terms of appearance, features, or something else.
 
-Challenge by <a href="https://github.com/wesbos">Wes Bos</a>(JavaScript30), coded by <a href="https://github.com/dimaskuy">DimasRS</a>.
+Challenge by <a href="https://github.com/wesbos">Wes Bos</a> (JavaScript30), coded by <a href="https://github.com/dimaskuy">DimasRS</a>.
 
 👉 View Demo: <a href="https://checkboxjs.netlify.app/">checkboxjs.netlify.app</a>
